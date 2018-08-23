@@ -2,7 +2,7 @@
 
 ## Description
 
-description
+使用nestjs 构建一个node mvc 项目
 
 ## Installation
 
